@@ -14,7 +14,7 @@ public:
         this->worth = worth;
     }
 
-    virtual float calculate_fine();
+    virtual float calculate_fine() = 0;
 };
 
 

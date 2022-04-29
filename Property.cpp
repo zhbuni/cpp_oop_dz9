@@ -3,7 +3,3 @@
 //
 
 #include "Property.h"
-
-float Property::calculate_fine() {
-    return worth;
-}
